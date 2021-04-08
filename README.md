@@ -1,7 +1,5 @@
 # So, how was your year?
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
-
 Apparently, my Neovim configuration just refuses to be optimized.
 
 ![Weekend Neovim](assets/terminal.gif)
