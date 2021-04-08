@@ -12,7 +12,7 @@ I'm pretty sure that by now I've spent as much time configuring my system as I h
 ## In other news
 
 - 🔭 I’m currently working on rebuilding my home network.
-- 🌱 I’m currently learning more guitar, more Golang.
+- 🌱 I’m currently learning more guitar, less Golang, more Swift and more Rust.
 - 💬 Ask me about Neovim, photography and electric bicycles.
 - 📫 How to reach me: Use Telegram — https://t.me/FoxFlix
 
