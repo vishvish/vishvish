@@ -1,4 +1,6 @@
-# So, how was your year?
+# It's going well. Work in Progress, Life in Progress.
+
+![vishvish's Stats](https://github-readme-stats.vercel.app/api?username=vishvish&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Apparently, my Neovim configuration just refuses to be optimized.
 
