@@ -1,7 +1,5 @@
 # It's going well. Work in Progress, Life in Progress.
 
-![vishvish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishvish&theme=vue-dark&hide_border=true)
-
 Apparently, my Neovim configuration just refuses to be optimized.
 
 ![Weekend Neovim](assets/terminal.gif)
