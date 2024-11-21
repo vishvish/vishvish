@@ -3,7 +3,7 @@
 I'm a consultant. 
 
 ### 🔭 Current Focus
-- Working on an AI-LLM platform for Overture
-- Spending more time with Async Rust
-- Learning all the new bits in modern Next.js, like Drizzle and TRPC...
-- Researching netive browser extension APIs as we keep on working on https://saveoursecrets.com/
+- going back to Rails to build my latest ideas, using Rails 8
+- building AI and RAG pipelines for fun
+- helping some mates build their cloud infrastructure
+- fine-tuning my multi-decade vim setup with modern Copilot assistance
